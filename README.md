@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Frantisek Klucar</h1>
 <h3 align="center">A passionate software developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wolfero&label=Profile%20views&color=0e75b6&style=flat" alt="wolfero" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wolfero" alt="wolfero" /></a> </p>
-
 - 🌱 I’m currently learning **React, TypeScript, TDD in FrontEnd**
 
 - 👨‍💻 All of my projects are available at [https://web-wolfero.vercel.app/projects](https://web-wolfero.vercel.app/projects)
