@@ -15,7 +15,3 @@
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wolfero&show_icons=true&locale=en" alt="wolferFo" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wolfero&" alt="wolfero" />
-</p>
