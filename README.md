@@ -15,6 +15,17 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wolfero&show_icons=true&locale=en" alt="wolferFo" />
 </p>
 
+<p align="center">
+<a href="https://github.com/SantiPerGo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiPerGo&langs_count=10&theme=github_dark"/>
+</a>
+&nbsp;
+<a href="https://github.com/SantiPerGo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SantiPerGo&show_icons=true&theme=github_dark"/>
+</a>
+ </p>
+
+
 <h2 align="center">Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/frantisek-klucar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frantisek klucar" height="30" width="40" /></a>
