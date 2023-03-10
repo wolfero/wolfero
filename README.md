@@ -19,5 +19,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/frantisek-klucar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frantisek klucar" height="30" width="40" /></a>
   &nbsp;
-  <a href="mailto:frantisek.klucar4@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" alt="frantisek klucar" /></a>
+  <a href="mailto:frantisek.klucar4@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" alt="frantisek klucar" height="30" width="109" /></a>
 </p>
