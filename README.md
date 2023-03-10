@@ -9,12 +9,7 @@
 
 - 📝 I regularly write articles in  my [blog](https://web-wolfero.vercel.app/blog)
 
-- 📫 How to reach me **frantisek.klucar4@gmail.com**
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wolfero&show_icons=true&locale=en" alt="wolferFo" />
-</p>
-
+<h2 align="center">My Stats</h2>
 <p align="center">
 <a href="https://github.com/SantiPerGo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfero&langs_count=10&theme=github_dark"/>
@@ -24,7 +19,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wolfero&show_icons=true&theme=github_dark"/>
 </a>
  </p>
-
 
 <h2 align="center">Connect with Me</h2>
 <p align="center">
