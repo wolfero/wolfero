@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frantisek Klucar</h1>
 <h3 align="center">A passionate web developer from Spain</h3>
 
-- 🌱 I’m currently learning **React, TypeScript, TDD in FrontEnd**
+- 🌱 I’m currently learning Python and mastering my knowledge of front-end.
 
 - ⛩ See [my personal web](https://web-wolfero.vercel.app)
 
