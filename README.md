@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning Python and mastering my knowledge of front-end.
 
-- ⛩ See [my personal web](https://web-wolfero.vercel.app)
+- ⛩ See [my personal web](https://wolfero.dev/)
 
 - 👨‍💻 All of my [projects](https://web-wolfero.vercel.app/projects)
 
-- 📝 I regularly write articles in  my [blog](https://web-wolfero.vercel.app/blog)
+- 📝 I regularly write articles in  my [blog](https://www.wolfero.dev/blog/page/1)
 
 <h2 align="center">My Stats</h2>
 <p align="center">
